@@ -114,3 +114,8 @@ SELECT * FROM weather;
 	•	Debugging and developing in an MLOps-style workflow 
 
     
+## 🖼️ DAG Screenshot
+
+Here’s what the pipeline looks like in the Airflow UI:
+
+![DAG Screenshot](assets/dag_screenshot.png) 
